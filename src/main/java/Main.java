@@ -15,7 +15,7 @@ import service.UserService;
 
 import java.time.Instant;
 
-public class MainClase3 {
+public class Main {
   void main() {
     // 1. Configuración de dependencias
     UserDao userDao = UserDaoFileImpl.getInstance();
